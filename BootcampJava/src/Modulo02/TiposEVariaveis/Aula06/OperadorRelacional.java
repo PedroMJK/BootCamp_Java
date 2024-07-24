@@ -18,7 +18,7 @@ public class OperadorRelacional {
             System.out.println("A nossa  condição é verdadeira");
         }
 
-        // Para objetos o ideal é usar o .equals, para comparar se os objetossão semelhantes
+        // Para objetos o ideal é usar o .equals, para comparar se os objetos são semelhantes
         System.out.println(nomeUm.equals(nomeDois)); // Apesar de o nomeDois criar um new objeto, o dois são iguais.
     }
 }
