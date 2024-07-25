@@ -1,4 +1,4 @@
-package Modulo02.EstruturasExcepcionais;
+package Modulo02.EstruturasExcepcionais.Aula01;
 
 import java.util.InputMismatchException;
 import java.util.Locale;
